@@ -6,6 +6,7 @@ navbar {
   height: 72px;
   width: 100vh;
   background-color: #000;
+  display: block;
 }
 .box {
   height: 50px;
