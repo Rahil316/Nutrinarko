@@ -2,3 +2,8 @@
   font-family: Roboto;
   margin: 0;
 }
+.navbar {
+  height: 72px;
+  width: 100vh;
+  background-color: #000;
+}
